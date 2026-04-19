@@ -9,4 +9,3 @@ Análisis de indicadores Economicos
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fcd64a1c-f16c-46a9-8219-0ed2fa89edb0" />
 
 
-# Estas presentaciones necesitan ser explicados. Posteriormente estaré publicando un blog para explicar estos dos indicadores.
